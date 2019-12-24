@@ -1,6 +1,6 @@
-## This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree
+# Predictive Analytics for Business Nanodegree
 
-
+This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree
 
 
 ### Part 1: Problem Solving with Advanced Analytics by Alteryx
